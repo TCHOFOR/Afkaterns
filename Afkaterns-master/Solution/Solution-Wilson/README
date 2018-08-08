@@ -1,0 +1,7 @@
+/* EXPLANATION OF CODE */
+
+1. The for loop gives numbers from 1000 to 3000.
+2. The if Statement determine if the number modulo two is Equal to Zero , if True
+3. Then the Number is Even.
+4. Then the Program print the Number followed by a Semi-Colon
+5. If False then the number is not Printed and the for loop increments to the Next Number.
